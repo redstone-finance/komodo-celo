@@ -19,11 +19,11 @@ We've deployed the komodo web app to the celo alfajores testnet:
 
 Please complete the following steps to use the komodo application:
 
-- Add celo alfajores testnet to Metamask. [Learn more](https://docs.celo.org/getting-started/wallets/using-metamask-with-celo/manual-setup#adding-a-celo-network-to-metamask)
+- Add celo alfajores testnet to Metamask (select the "Alfajores Testnet" tab). [Learn more](https://docs.celo.org/getting-started/wallets/using-metamask-with-celo/manual-setup#adding-a-celo-network-to-metamask)
 - Add cUSD token to Metamask (select the "Alfajores Testnet" tab). [Learn more](https://docs.celo.org/getting-started/wallets/using-metamask-with-celo/manual-setup#adding-tokens-eg-cusd-ceur)
 - Fund your account with CELO and cUSD tokens. [Learn more](https://celo.org/developers/faucet)
 - Visit [alfajores-komodo.redstone.finance](https://alfajores-komodo.redstone.finance)
-
+- Connect metamask to the app and have fun :)
 
 ## How we built synthetic commodities
 We decided to base our architecture on the popular and battle-tested **CDP** (collateralized debt position) pattern.
